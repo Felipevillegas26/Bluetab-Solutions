@@ -51,3 +51,4 @@ if __name__ == "__main__":
     df_resultado = transformador.transformar(df_principal, df_auxiliar)
     df_resultado.show()
     #Mi primer cambio
+    #solucion
